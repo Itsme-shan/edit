@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Itsme-shan/SHANZ-BOT/blob/v7.1/image/lol_1.jpg" alt="SHANZ BOT" width="100"/>
+<img src="https://github.com/Itsme-shan/SHANZ-BOT/blob/v7.1/image/lol.jpg" alt="SHANZ BOT" width="100"/>
 
 
 </p>
